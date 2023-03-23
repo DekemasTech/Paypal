@@ -3,3 +3,4 @@ simon legah
 Ayo
 Obi
 dominion
+manager
