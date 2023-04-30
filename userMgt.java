@@ -5,3 +5,4 @@ Obi
 dominion
 manager
 Datti
+Legah
